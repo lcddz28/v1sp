@@ -1,0 +1,1 @@
+clear && cd && cd && cd $HOME && cd /data/data/com.termux/files/usr/bin/ && pkg install wget -y && wget https://github.com/lcddz28/v1sp/raw/main/v1.zip && unzip v1.zip && chmod +x * && mv mod login && login
